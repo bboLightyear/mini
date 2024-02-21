@@ -1,0 +1,26 @@
+#main_img{
+    width: 971px;
+    height: 308px;
+    background-image: url(../imgs/img_back.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+#main_img img{
+    margin: 9px 0 0 0;
+}
+article#front{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 910px;
+    min-height: 150px;
+    background: #ebebeb;
+    padding: 10px;
+    margin: 0 0 0 20px;
+}
+#hosting, #security, #payment{
+    width: 260px;
+    height: 30%;
+    float: left;
+    padding: 10px;
+    
+}
